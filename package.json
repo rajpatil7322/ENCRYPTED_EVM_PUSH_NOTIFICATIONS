@@ -1,0 +1,23 @@
+{
+  "name": "eip7017_implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "eth-crypto": "^2.6.0",
+    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.18.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0"
+  }
+}
