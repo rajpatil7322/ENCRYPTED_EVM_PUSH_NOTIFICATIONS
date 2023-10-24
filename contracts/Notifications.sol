@@ -13,6 +13,7 @@ contract Notification is INotification {
         emit DirectMsg(msg.sender, to, subject, body);
     }
 
+
     /**
     * @dev Send a notification to an address from the smart contract
     * @param to address to send a notification to
